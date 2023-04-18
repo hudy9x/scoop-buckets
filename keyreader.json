@@ -12,7 +12,7 @@
     }
   },
 
-  "hash": ["cf7fc712e5f3a9fc6a25b7c0eff166baa6a206fc6557dcce25311d904aaed07b"],
+  "hash": ["77788f5a411c215609e64d067c18a68f491f992c175646309e02abf38716c18a"],
   "pre_install": [
     "Copy-Item -Path \"$dir\\PFiles\\KeyReader\\KeyReader.exe\" -Destination \"$dir\""
   ],
