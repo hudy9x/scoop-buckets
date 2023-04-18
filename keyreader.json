@@ -1,6 +1,6 @@
 {
-  "version": "0.4.1",
-  "url": "https://github.com/hudy9x/keyreader/releases/download/v0.4.1/KeyReader_0.4.1_x64_en-US.msi",
+  "version": "0.4.2",
+  "url": "https://github.com/hudy9x/keyreader/releases/download/v0.4.2/KeyReader_0.4.2_x64_en-US.msi",
   "bin": "/PFiles/KeyReader/KeyReader.exe",
   
   "autoupdate": {
@@ -12,7 +12,7 @@
     }
   },
 
-  "hash": ["53452922ab895e1320c9a9292ea66228d25ca174f344d403d81032ab9fcb6af6"],
+  "hash": ["cf7fc712e5f3a9fc6a25b7c0eff166baa6a206fc6557dcce25311d904aaed07b"],
   "pre_install": [
     "Copy-Item -Path \"$dir\\PFiles\\KeyReader\\KeyReader.exe\" -Destination \"$dir\""
   ],
